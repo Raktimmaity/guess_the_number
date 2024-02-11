@@ -1,0 +1,70 @@
+body{
+    background: linear-gradient(to top right, #ce9ffc 0%, #7367f0 100%);
+}
+
+.cont{
+    background-image: linear-gradient(135deg, #EE9CA7 10%, #FFDDE1 100%);
+    margin: auto;
+    height: 15cm;
+    width: 20cm;    
+    margin-top: 10px;
+    box-shadow: black 1px 44px 44px;
+    border-radius: 20px;
+}
+.title{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    letter-spacing: 1px;
+    padding: 30px;
+    font-weight: 400;
+    font-style:inherit;
+    font-stretch: expanded;
+    font-weight: 500;
+}
+
+.but{
+    text-align: center;
+    padding: 5px;
+}
+
+.doc{
+    text-align: center;
+    font-size: x-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 20px;
+}
+
+.butt{
+    text-align: center;
+    margin-top: 100px;
+}
+
+#butn{
+    width: 200px;
+    height: 50px;
+    border-radius: 30px;
+    background: linear-gradient(to top left, #ffe000 0%, #799f0c 100%);
+    font-size: large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    letter-spacing: 1px;
+    border:0px;
+    box-shadow: black 1px 20px 40px ;
+    cursor: pointer;
+    transition: 1s;
+    margin-top: 20px;
+}
+
+#butn:hover{
+    background: linear-gradient(to bottom right, #ffe000 0%, #799f0c 100%);
+}
+
+.chk{
+    text-align: center;
+}
+
+.info{
+    text-align: center;
+    margin-top: -20px;
+    font-weight: 600;
+    background-image: linear-gradient(135deg, #FCCF31 10%, #F55555 100%);
+}
